@@ -6,6 +6,9 @@ import com.lianlianpay.openapi.config.LLianPayConstant;
 import com.lianlianpay.openapi.query.v1.OrderQueryParams;
 import com.lianlianpay.openapi.query.v1.OrderQueryResult;
 
+/**
+ * 收款查询 Demo
+ */
 public class OrderQueryDemo {
     public static void main(String[] args) {
         OrderQueryParams params = new OrderQueryParams();
